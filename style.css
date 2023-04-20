@@ -53,3 +53,15 @@ ul, li {
 strong {
     text-decoration: underline;
 }
+
+li {
+    text-align: left;
+    width: 70%;
+    margin: auto;
+}
+
+footer {
+    border-top: 2px solid #4a4e69;
+    width: 100vw;
+    text-align: center;
+}
